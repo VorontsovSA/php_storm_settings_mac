@@ -1,0 +1,16 @@
+<templateSet group="PHP">
+  <template name="prr" value="print '&lt;pre&gt;'.print_r($EXPRESSION$, 1).'&lt;/pre&gt;';" description="'print_r' for html" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="print '&lt;pre&gt;'.var_dump($EXPRESSION$).'&lt;/pre&gt;';" description="'var_dump' for html" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>

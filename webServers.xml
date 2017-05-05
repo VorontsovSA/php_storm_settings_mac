@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a1c17d54-1b11-42ab-aa6e-c8e36add711f" name="HAP" url="http://uk71.ru">
+        <fileTransfer host="uk71.ru" port="1567" rootFolder="/home/vorontsovsa/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
