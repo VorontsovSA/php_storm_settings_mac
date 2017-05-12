@@ -7,14 +7,14 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="985764be-6c30-4fa4-bc68-8c1cbe3f6781" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="127.0.0.1" PORT="2222" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="127.0.0.1" PORT="2222" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/opt/remi/php70/root/usr/bin/php-cgi" php_cli="/opt/remi/php70/root/usr/bin/php" path_separator=":" remote_host="10.0.2.2 53450 22" version="7.0.6RC1">
+        <phpinfo binary_type="PHP" php_cgi="/opt/remi/php70/root/usr/bin/php-cgi" php_cli="/opt/remi/php70/root/usr/bin/php" path_separator=":" remote_host="10.0.2.2 55292 22" version="7.0.6RC1">
           <additional_php_ini>/etc/opt/remi/php70/php.d/10-opcache.ini, /etc/opt/remi/php70/php.d/15-xdebug.ini, /etc/opt/remi/php70/php.d/20-bz2.ini, /etc/opt/remi/php70/php.d/20-calendar.ini, /etc/opt/remi/php70/php.d/20-ctype.ini, /etc/opt/remi/php70/php.d/20-curl.ini, /etc/opt/remi/php70/php.d/20-dom.ini, /etc/opt/remi/php70/php.d/20-exif.ini, /etc/opt/remi/php70/php.d/20-fileinfo.ini, /etc/opt/remi/php70/php.d/20-ftp.ini, /etc/opt/remi/php70/php.d/20-gettext.ini, /etc/opt/remi/php70/php.d/20-iconv.ini, /etc/opt/remi/php70/php.d/20-intl.ini, /etc/opt/remi/php70/php.d/20-json.ini, /etc/opt/remi/php70/php.d/20-mbstring.ini, /etc/opt/remi/php70/php.d/20-mysqlnd.ini, /etc/opt/remi/php70/php.d/20-pdo.ini, /etc/opt/remi/php70/php.d/20-phar.ini, /etc/opt/remi/php70/php.d/20-posix.ini, /etc/opt/remi/php70/php.d/20-shmop.ini, /etc/opt/remi/php70/php.d/20-simplexml.ini, /etc/opt/remi/php70/php.d/20-soap.ini, /etc/opt/remi/php70/php.d/20-sockets.ini, /etc/opt/remi/php70/php.d/20-sqlite3.ini, /etc/opt/remi/php70/php.d/20-sysvmsg.ini, /etc/opt/remi/php70/php.d/20-sysvsem.ini, /etc/opt/remi/php70/php.d/20-sysvshm.ini, /etc/opt/remi/php70/php.d/20-tokenizer.ini, /etc/opt/remi/php70/php.d/20-xml.ini, /etc/opt/remi/php70/php.d/20-xmlwriter.ini, /etc/opt/remi/php70/php.d/20-xsl.ini, /etc/opt/remi/php70/php.d/30-mysqli.ini, /etc/opt/remi/php70/php.d/30-pdo_mysql.ini, /etc/opt/remi/php70/php.d/30-pdo_sqlite.ini, /etc/opt/remi/php70/php.d/30-wddx.ini, /etc/opt/remi/php70/php.d/30-xmlreader.ini, /etc/opt/remi/php70/php.d/40-amqp.ini, /etc/opt/remi/php70/php.d/40-igbinary.ini, /etc/opt/remi/php70/php.d/40-imagick.ini, /etc/opt/remi/php70/php.d/50-redis.ini</additional_php_ini>
           <configuration_file>/etc/opt/remi/php70/php.ini</configuration_file>
           <configuration_options>
