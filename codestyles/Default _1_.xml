@@ -1,10 +1,7 @@
 <code_scheme name="Default (1)">
   <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
-    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <XML>
@@ -12,7 +9,6 @@
   </XML>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
