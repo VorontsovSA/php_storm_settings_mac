@@ -14,7 +14,28 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="php.exe" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="C:/100sp/vm/dev.100sp/vendor/bin/php-cs-fixer fix -vvv" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="php" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="PHP-CS-FIXER" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="php" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
