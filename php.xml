@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
@@ -7,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="985764be-6c30-4fa4-bc68-8c1cbe3f6781" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="127.0.0.1" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="127.0.0.1" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
