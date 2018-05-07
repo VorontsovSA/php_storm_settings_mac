@@ -2,8 +2,13 @@
   <component name="EditorSettings">
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bnotimplemented\b*">
+      <option name="FOREGROUND" value="fa88ff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
   </component>
 </application>
