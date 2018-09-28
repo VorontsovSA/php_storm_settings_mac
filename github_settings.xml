@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c1b9a68f-a796-45fb-8286-2f4130c2c683" name="VorontsovSA">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="vorontsovsa" />
     <option name="AUTH_TYPE" value="BASIC" />
