@@ -2,5 +2,4 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
