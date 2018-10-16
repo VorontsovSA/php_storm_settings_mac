@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9e3231e0-361c-4902-8bae-7becf508a667" name="UKSR" url="http://hap.uksr.ru">
-        <fileTransfer host="hap.uksr.ru" port="10022" accessType="SFTP">
+        <fileTransfer host="hap.uksr.ru" port="10022" rootFolder="/srv/www/hap.uksr.ru" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
