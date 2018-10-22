@@ -17,6 +17,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="49783fdc-1ffd-4247-af61-06132bed3be5" name="FREGAT" url="http://uk71.ru">
+        <fileTransfer host="uk71.ru" port="1567" rootFolder="/home/vorontsovsa/fregat.uk71.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
