@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="prr" value="print '&lt;pre&gt;'.print_r($EXPRESSION$, 1).'&lt;/pre&gt;';" description="'print_r' for html" toReformat="false" toShortenFQNames="true">
+  <template name="prr" value="print '&lt;pre&gt;'.print_r($EXPRESSION$, true).'&lt;/pre&gt;';" description="'print_r' for html" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
