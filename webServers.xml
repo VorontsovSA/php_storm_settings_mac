@@ -33,6 +33,14 @@
           <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
+      <webServer id="cf27bd85-3cc2-4db5-a18b-f874412711d7" name="KRUKSR" url="http://kr.uksr.ru">
+        <fileTransfer host="kr.uksr.ru" port="10022" rootFolder="/srv/www/kr.uksr.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
