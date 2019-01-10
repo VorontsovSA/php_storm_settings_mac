@@ -41,6 +41,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="05c7b61b-f18b-467c-b728-1042d026abf4" name="SP" url="http://sp.uk71.ru">
+        <fileTransfer host="sp.uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
