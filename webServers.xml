@@ -49,6 +49,14 @@
           <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
+      <webServer id="7a67a8da-1575-4309-9598-b60e26e2ea00" name="FREGATPROD" url="http://fregat.uk71.ru">
+        <fileTransfer host="fregat.uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/fregat.uk71.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
