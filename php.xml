@@ -6,14 +6,6 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/vorontsovsa/Projects/100sp/vm/usr/bin/php" id="985764be-6c30-4fa4-bc68-8c1cbe3f6781" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Projects/100sp/vm" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="/usr/bin/php" id="d3cbb706-84b4-4bbc-b395-fe3f108a9857" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
