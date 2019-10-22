@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.100sp.ru" />
           <option name="userName" value="vorontsovsa" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.100sp.ru&quot;" />
+          <option name="userName" value="vorontsovsa" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
