@@ -2,59 +2,59 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a1c17d54-1b11-42ab-aa6e-c8e36add711f" name="HAP" url="http://uk71.ru">
-        <fileTransfer host="uk71.ru" port="1567" rootFolder="/home/vorontsovsa/hap.site" accessType="SFTP">
+        <fileTransfer rootFolder="/home/vorontsovsa/hap.site" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="e2624c52-b755-4d37-a01e-dbcad5c784f7" sshConfig="vorontsovsa@uk71.ru:1567 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
       <webServer id="9e3231e0-361c-4902-8bae-7becf508a667" name="UKSR" url="http://hap.uksr.ru">
-        <fileTransfer host="hap.uksr.ru" port="10022" rootFolder="/srv/www/hap.uksr.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/srv/www/hap.uksr.ru" accessType="SFTP" host="hap.uksr.ru" port="10022" sshConfigId="3da3df4e-9c55-4136-94c4-c11489e865d9" sshConfig="vorontsovsa@hap.uksr.ru:10022 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
       <webServer id="49783fdc-1ffd-4247-af61-06132bed3be5" name="FREGAT" url="http://uk71.ru">
-        <fileTransfer host="uk71.ru" port="1567" rootFolder="/home/vorontsovsa/fregat.uk71.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/home/vorontsovsa/fregat.uk71.ru" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="e2624c52-b755-4d37-a01e-dbcad5c784f7" sshConfig="vorontsovsa@uk71.ru:1567 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
       <webServer id="7d14a693-3d2e-4d9e-bf8c-1380228d33de" name="KR" url="http://kr.uk71.ru">
-        <fileTransfer host="kr.uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/kr.uk71.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/srv/www/sfprojects/kr.uk71.ru" accessType="SFTP" host="kr.uk71.ru" port="1567" sshConfigId="eb78a348-df23-468c-a507-3c3e1d6c0215" sshConfig="root@kr.uk71.ru:1567 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
       <webServer id="cf27bd85-3cc2-4db5-a18b-f874412711d7" name="KRUKSR" url="http://kr.uksr.ru">
-        <fileTransfer host="kr.uksr.ru" port="10022" rootFolder="/srv/www/kr.uksr.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/srv/www/kr.uksr.ru" accessType="SFTP" host="kr.uksr.ru" port="10022" sshConfigId="c553160c-b14f-4fb7-b185-781ba809f982" sshConfig="vorontsovsa@kr.uksr.ru:10022 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
       <webServer id="05c7b61b-f18b-467c-b728-1042d026abf4" name="SP" url="http://sp.uk71.ru">
-        <fileTransfer host="sp.uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP" host="sp.uk71.ru" port="1567" sshConfigId="6074fe21-bbf7-4eff-ae91-44a4e379cd0e" sshConfig="root@sp.uk71.ru:1567 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
       <webServer id="7a67a8da-1575-4309-9598-b60e26e2ea00" name="FREGATPROD" url="http://fregat.uk71.ru">
-        <fileTransfer host="fregat.uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/fregat.uk71.ru" accessType="SFTP">
+        <fileTransfer rootFolder="/srv/www/sfprojects/fregat.uk71.ru" accessType="SFTP" host="fregat.uk71.ru" port="1567" sshConfigId="8798a631-6ad8-4297-bda7-ee41eb2b465f" sshConfig="root@fregat.uk71.ru:1567 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8302a206-ea9e-4064-a3c2-2f1160c846d2" name="HAPPROD" url="http://uk71.ru">
+        <fileTransfer rootFolder="/srv/www/sfprojects/hap.site" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="4acf8566-d5ef-4f7e-b681-7a57b8497332" sshConfig="root@uk71.ru:1567 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
