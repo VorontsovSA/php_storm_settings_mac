@@ -57,6 +57,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ac270469-5a55-48f7-8aa2-8690bd1ce63a" name="NIMIR" url="http://nimir.uk71.ru">
+        <fileTransfer rootFolder="/srv/www/sfprojects/nimir.uk71.ru" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="4acf8566-d5ef-4f7e-b681-7a57b8497332" sshConfig="root@uk71.ru:1567 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
