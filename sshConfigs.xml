@@ -2,7 +2,6 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="3da3df4e-9c55-4136-94c4-c11489e865d9" port="10022" nameFormat="DESCRIPTIVE" username="vorontsovsa" />
-      <sshConfig authType="PASSWORD" host="kr.uk71.ru" id="eb78a348-df23-468c-a507-3c3e1d6c0215" port="1567" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig authType="PASSWORD" host="kr.uksr.ru" id="c553160c-b14f-4fb7-b185-781ba809f982" port="10022" nameFormat="DESCRIPTIVE" username="vorontsovsa" />
       <sshConfig authType="PASSWORD" host="sp.uk71.ru" id="6074fe21-bbf7-4eff-ae91-44a4e379cd0e" port="1567" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig authType="PASSWORD" host="fregat.uk71.ru" id="8798a631-6ad8-4297-bda7-ee41eb2b465f" port="1567" nameFormat="DESCRIPTIVE" username="root" />
