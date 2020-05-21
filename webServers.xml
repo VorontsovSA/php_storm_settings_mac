@@ -22,13 +22,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="7d14a693-3d2e-4d9e-bf8c-1380228d33de" name="KR" url="http://kr.uk71.ru">
-        <fileTransfer rootFolder="/srv/www/sfprojects/kr.uk71.ru" accessType="SFTP" host="kr.uk71.ru" port="1567" sshConfigId="eb78a348-df23-468c-a507-3c3e1d6c0215" sshConfig="root@kr.uk71.ru:1567 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="cf27bd85-3cc2-4db5-a18b-f874412711d7" name="KRUKSR" url="http://kr.uksr.ru">
         <fileTransfer rootFolder="/srv/www/kr.uksr.ru" accessType="SFTP" host="kr.uksr.ru" port="10022" sshConfigId="c553160c-b14f-4fb7-b185-781ba809f982" sshConfig="vorontsovsa@kr.uksr.ru:10022 password">
           <advancedOptions>
