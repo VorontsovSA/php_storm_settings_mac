@@ -29,13 +29,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="05c7b61b-f18b-467c-b728-1042d026abf4" name="SP" url="http://sp.uk71.ru">
-        <fileTransfer rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP" host="sp.uk71.ru" port="1567" sshConfigId="6074fe21-bbf7-4eff-ae91-44a4e379cd0e" sshConfig="root@sp.uk71.ru:1567 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="7a67a8da-1575-4309-9598-b60e26e2ea00" name="FREGATPROD" url="http://fregat.uk71.ru">
         <fileTransfer rootFolder="/srv/www/sfprojects/fregat.uk71.ru" accessType="SFTP" host="fregat.uk71.ru" port="1567" sshConfigId="8798a631-6ad8-4297-bda7-ee41eb2b465f" sshConfig="root@fregat.uk71.ru:1567 password">
           <advancedOptions>
