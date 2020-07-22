@@ -5,6 +5,7 @@
       <mapping pattern="_accountVersionsModalContent" type="PHP" />
       <mapping pattern="_ready_for_craete_alert.php" type="PLAIN_TEXT" />
       <mapping pattern="Pechka54Tester" type="PLAIN_TEXT" />
+      <mapping pattern="action" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
