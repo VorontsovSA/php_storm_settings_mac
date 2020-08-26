@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8b91b6c5-80d6-4d2f-861c-3a1b8057fbfe" name="NEVEL" url="http://nevel.uk71.ru">
+        <fileTransfer rootFolder="/srv/www/sfprojects/nevel.uk71.ru" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="4acf8566-d5ef-4f7e-b681-7a57b8497332" sshConfig="root@uk71.ru:1567 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
