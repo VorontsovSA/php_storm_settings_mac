@@ -1,11 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;yiilite.php;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;yiilite.php;" />
     <extensionMap>
       <mapping pattern="_accountVersionsModalContent" type="PHP" />
       <mapping pattern="_ready_for_craete_alert.php" type="PLAIN_TEXT" />
-      <mapping pattern="Pechka54Tester" type="PLAIN_TEXT" />
       <mapping pattern="action" type="PLAIN_TEXT" />
+      <mapping pattern="Pechka54Tester" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
