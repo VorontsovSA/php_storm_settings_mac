@@ -749,6 +749,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mq4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.investflow.mql" />
+              <option name="myPluginName" value="MQL Idea" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mqh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.investflow.mql" />
+              <option name="myPluginName" value="MQL Idea" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ng">
           <value>
             <plugin>
@@ -1787,6 +1803,11 @@
                   <entry key="JavascriptDebugType">
                     <value>
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="MQL4RunCompilerConfigurationTypeId">
+                    <value>
+                      <FeaturePluginData displayName="MQL4 Build" pluginName="MQL Idea" pluginId="ru.investflow.mql" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
