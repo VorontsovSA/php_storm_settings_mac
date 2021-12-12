@@ -57,6 +57,12 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="37ed999e-b9f4-4cbd-8e33-7297fbe48ad2" name="http://spryker.local/" url="http://spryker.local/">
+        <fileTransfer mountedRoot="$USER_HOME$/Projects/spyker/b2c-demo-shop/public" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="414d5586-bd4f-4d50-af4f-f281f5831f0a" name="Spryker" url="http://spryker.local/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
