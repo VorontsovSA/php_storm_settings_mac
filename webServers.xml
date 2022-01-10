@@ -63,6 +63,20 @@
       <webServer id="414d5586-bd4f-4d50-af4f-f281f5831f0a" name="Spryker" url="http://spryker.local/">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="0f927625-8591-46c4-9333-76b15d3d1dd0" name="http://uk71.ru/1567" url="http://mingorodok.uk71.ru">
+        <fileTransfer rootFolder="/srv/www/sfprojects/mingorodok.uk71.ru" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="4acf8566-d5ef-4f7e-b681-7a57b8497332" sshConfig="root@uk71.ru:1567 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="51120630-6966-4c01-addc-d0026bb0e13d" name="MINGORODOK" url="http://mingorodok.uk71.ru">
+        <fileTransfer rootFolder="/srv/www/sfprojects/mingorodok.uk71.ru" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="4acf8566-d5ef-4f7e-b681-7a57b8497332" sshConfig="root@uk71.ru:1567 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
