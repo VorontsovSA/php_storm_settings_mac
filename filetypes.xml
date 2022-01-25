@@ -8,6 +8,7 @@
       <mapping pattern="_accountVersionsModalContent" type="PHP" />
       <mapping ext="old_php" type="PHP" />
       <mapping pattern="_ready_for_craete_alert.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="action" type="PLAIN_TEXT" />
       <mapping pattern="Pechka54Tester" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" type="TSV" />
