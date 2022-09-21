@@ -3,7 +3,6 @@
     <option name="customScope" value="SLA-1385 Merchant Reviews &amp; Ratings" />
     <option name="defaultScopeName" value="SLA-1385 Merchant Reviews &amp; Ratings" />
     <option name="SEARCH_SCOPE" value="SLA-1385 Merchant Reviews &amp; Ratings" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.scss</mask>
     <mask>*.csv</mask>
     <mask>*.yml</mask>
