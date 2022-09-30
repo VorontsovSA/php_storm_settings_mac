@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="SLA-1551 New Glue API tax rates for multiple SKUs one Country" />
+    <option name="defaultScopeName" value="SLA-1551 New Glue API tax rates for multiple SKUs one Country" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="SLA-1551 New Glue API tax rates for multiple SKUs one Country" />
     <mask>*.scss</mask>
     <mask>*.csv</mask>
     <mask>*.yml</mask>
