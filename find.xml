@@ -4,10 +4,10 @@
     <option name="defaultScopeName" value="SLA-1719 New products dont show in Yves" />
     <option name="SEARCH_SCOPE" value="SLA-1719 New products dont show in Yves" />
     <mask>*.scss</mask>
-    <mask>*.csv</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
