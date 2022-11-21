@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="SLA-1995 Extract product onboarding feature as composer packages" />
-    <option name="defaultScopeName" value="SLA-1995 Extract product onboarding feature as composer packages" />
-    <option name="SEARCH_SCOPE" value="SLA-1995 Extract product onboarding feature as composer packages" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.csv</mask>
